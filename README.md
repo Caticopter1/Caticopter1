@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Caticopter1
-- 👀 I’m interested in data used by government and public bodies.
+- 👀 I’m interested in data collected and used by government and public bodies.
 - 🌱 I’m currently learning how to using coding for analysis and business intelligence.
 - 💞️ I’m looking to collaborate on making data accessible for all.
 - 📫 How to reach me - email, chat.
